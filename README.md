@@ -3,9 +3,11 @@ TunelRendering
 
 This is a project for my master degree in Computer Graphics. It renders an artery from a set of splines. It uses OpenGL and C++.
 
-Aplication Controls:
+Application Controls
+--------------------
 
-Key	Function
+**Key	Function**  
+
 a  - d	Rotation in y (Right and Left)  	
 e - r	Rotation in x (Up and Down)	  
 w - s	Zoom in - Zoom out	  
