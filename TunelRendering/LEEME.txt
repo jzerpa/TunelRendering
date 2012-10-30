@@ -1,0 +1,16 @@
+Controles de la aplicacion
+
+Tecla	Función	
+a  - d	Rotación en y (Derecha e Izquierda respectivamente)	
+e - r	Rotación en x (Arriba y abajo respectivamente)	
+w - s	Zoom in - Zoom out	
+v	Modo de visualización en forma de recorrido interactivo - 
+Modo de control de cámara manual - Se varía el modo de visualización actual. Interactivo - Manual.
+n	Modo Poligono	
+m	Modo Puntos	
+b	Modo Wireframe - Este modo es el que más carga poner al procesador, usar con cuidado :).
+
+
+OJO: Para salir de la aplicación se recomienda hacer click con el botón derecho del raton sobre la pantalla de visualización y pulsar Quit. Esto permitira al programa librerar la memoria de textura cargada.
+
+Notas: Hay un bug en el movimiento de forward el cual hace que a veces se inviertan los controles. TODO: Corregir.
